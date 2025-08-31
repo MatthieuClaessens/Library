@@ -1,0 +1,22 @@
+/* styles.css */
+.root {
+    -fx-background-color: #f5f5f5;  /* Fond de la fenêtre */
+}
+
+.bouton-bleu {
+    -fx-background-color: #1f8fe8;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-padding: 8px 16px;
+    -fx-background-radius: 4px;
+}
+
+.bouton-bleu:hover {
+    -fx-background-color: #1a7fd1;
+}
+
+.titre {
+    -fx-font-size: 28px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #333333;
+}
